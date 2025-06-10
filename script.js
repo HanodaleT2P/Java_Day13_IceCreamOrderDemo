@@ -1,8 +1,9 @@
 const flavors = [
-  { id: 1, name: "Vanilla", price: 60, image: "https://via.placeholder.com/100?text=Vanilla" },
-  { id: 2, name: "Chocolate", price: 70, image: "https://via.placeholder.com/100?text=Choco" },
-  { id: 3, name: "Strawberry", price: 65, image: "https://via.placeholder.com/100?text=Strawberry" },
-  { id: 4, name: "Mango", price: 75, image: "https://via.placeholder.com/100?text=Mango" }
+  { id: 1, name: "Vanilla", price: 60, image: "Vannila.jpg" },
+  { id: 2, name: "Chocolate", price: 70, image: "chocolate.jpg" },
+  { id: 3, name: "Strawberry", price: 65, image: "Strawberry.jpeg" },
+  { id: 4, name: "Mango", price: 75, image: "Mango1.jpeg" },
+  {id:5, name:"Blueberry",price:85,image:"blueberry.jpeg"}
 ];
 
 const cart = {};
