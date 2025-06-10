@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #fdf0f0;
+}
+
+h1 {
+  text-align: center;
+  color: #d63384;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 15px;
+  width: 60%;
+}
+
+.flavor {
+  border: 1px solid #eee;
+  padding: 10px;
+  background: #fff;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.flavor img {
+  width: 100px;
+}
+
+.order {
+  width: 35%;
+  border-left: 2px solid #eee;
+  padding-left: 15px;
+}
+
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  background-color: #ff69b4;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
