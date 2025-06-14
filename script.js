@@ -1,8 +1,8 @@
-const book = [
-  { id: 1, name: "Arkitek Pelukis Jalanan", price: 35, image: "arkitekjalanan.jpg" },
-  { id: 2, name: "Alexander Adalah Zulkarnain", price: 150, image: "alexanderzulkarnain.jpg" },
-  { id: 3, name: "Kids Book", price: 30, image: "kidsbook.jpg" },
-  { id: 4, name: "Tamadun Mesir Purba", price: 80, image: "tamadunmesir.jpg" }
+const flavors = [
+  { id: 1, name: "Vanilla", price: 60, image: "https://via.placeholder.com/100?text=Vanilla" },
+  { id: 2, name: "Chocolate", price: 70, image: "https://via.placeholder.com/100?text=Choco" },
+  { id: 3, name: "Strawberry", price: 65, image: "https://via.placeholder.com/100?text=Strawberry" },
+  { id: 4, name: "Mango", price: 75, image: "https://via.placeholder.com/100?text=Mango" }
 ];
 
 const cart = {};
