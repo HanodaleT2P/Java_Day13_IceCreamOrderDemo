@@ -1,12 +1,12 @@
 body {
   font-family: sans-serif;
   padding: 20px;
-  background-color: #fdf0f0;
+  background-color: #c9d1da;
 }
 
 h1 {
   text-align: center;
-  color: #d63384;
+  color: #061366;
 }
 
 .container {
@@ -23,7 +23,7 @@ h1 {
   width: 60%;
 }
 
-.flavor {
+.book {
   border: 1px solid #eee;
   padding: 10px;
   background: #fff;
@@ -31,7 +31,7 @@ h1 {
   text-align: center;
 }
 
-.flavor img {
+.book img {
   width: 100px;
 }
 
@@ -44,7 +44,7 @@ h1 {
 button {
   margin-top: 5px;
   padding: 5px 10px;
-  background-color: #ff69b4;
+  background-color: #6565e7;
   border: none;
   border-radius: 5px;
   color: white;
